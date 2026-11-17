@@ -51,6 +51,8 @@
 #
 #   GET https://localhost:8442/igoat/exercise/certificatePinning
 #
+#  Not-Real-At-All AWS Key: AKIAIOSFODNN7EXAMPLE
+#
 #==============================================================================
 
 require 'rubygems'
